@@ -36,10 +36,10 @@ custom:
 ### Supported runtimes
 * nodejs6.10
 
-# Authors
+## Authors
 
 Created and maintained by Tao Lin (lamsyi99@gmail.com)
 
-# License
+## License
 
 MIT License (see [LICENSE](https://github.com/lintaonz/serverless-aws-api-gateway-utils/blob/master/LICENSE))

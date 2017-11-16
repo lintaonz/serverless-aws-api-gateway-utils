@@ -1,6 +1,6 @@
 {
   "name": "serverless-aws-api-gateway-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Serverless AWS API-Gateway Utils",
   "main": "index.js",
   "scripts": {
