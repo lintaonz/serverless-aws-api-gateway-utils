@@ -1,0 +1,26 @@
+{
+  "name": "serverless-aws-api-gateway-utils",
+  "version": "0.0.1",
+  "description": "Serverless AWS API-Gateway Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lintaonz/serverless-aws-api-gateway-utils.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "api-gateway",
+    "deployment",
+    "authorizer"
+  ],
+  "author": "Tao Lin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lintaonz/serverless-aws-api-gateway-utils/issues"
+  },
+  "homepage": "https://github.com/lintaonz/serverless-aws-api-gateway-utils#readme"
+}
